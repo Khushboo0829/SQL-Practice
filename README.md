@@ -1,22 +1,29 @@
 # SQL Practice 📊
 
-This repository documents my SQL practice and learning journey.
+A structured collection of SQL problems and solutions documenting my journey toward stronger **data querying and analytical skills**.
 
-I regularly solve SQL problems to strengthen my understanding of databases, improve query-writing skills, and build a strong foundation for data analytics.
+I regularly practice SQL using real-world-style datasets involving employees, students, products, sales, and other business scenarios. The goal is to strengthen my understanding of **database querying, data filtering, aggregation, and analytical problem-solving**.
 
+**Focus:** SQL • PostgreSQL • MySQL • Data Analysis
 ## 🎯 What I'm Practicing
 
+### SQL Fundamentals
 - SELECT statements
 - WHERE conditions
 - AND / OR operators
 - ORDER BY
 - DISTINCT
-- Aggregate functions such as COUNT, SUM, and AVG
+
+### Data Aggregation
+- COUNT, SUM, AVG, MIN, MAX
 - GROUP BY
 - HAVING
-- Filtering and sorting data
-- Working with employee, student, product, and department datasets
 
+### Querying & Analysis
+- Filtering and sorting data
+- Working with multiple conditions
+- Solving business-style SQL problems
+- Extracting useful information from datasets
 ## 🗂️ Repository Structure
 
 Each SQL problem is stored in a separate `.sql` file with a numbered filename.
